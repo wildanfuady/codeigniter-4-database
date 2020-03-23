@@ -16,6 +16,10 @@ Selengkapnya:
 
 [Cara Mengkoneksikan Codeigniter 4 dengan Database](https://ilmucoding.com/codeigniter-4-database/)
 
+## Update
+
+Jika saat Anda download source code ini dan tidak menemukan file env, maka silahkan download [di sini](https://gist.github.com/wildanfuady/fd72222e543473054bdeea682f863c5a)
+
 Regards,
 
 [Ilmu Coding](https://ilmucoding.com)
