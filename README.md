@@ -13,6 +13,7 @@ Dijelaskan step by step dan di akhir Anda bisa download source codenya.
 Selengkapnya: 
 
 [Cara Mengkoneksikan Codeigniter 4 dengan Database](https://ilmucoding.com/codeigniter-4-database/)
+
 [Cara Mengkoneksikan Codeigniter 4 dengan Database](https://ilmucoding.com/codeigniter-4-database/)
 
 Regards,
